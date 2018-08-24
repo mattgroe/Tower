@@ -16,6 +16,7 @@ class Wrapper extends Component {
         this.btnClick = this.btnClick.bind(this);
     }
 
+    //NEW LINE
 
     btnClick() {
         this.setState({
